@@ -11,4 +11,3 @@ dependencies:
 - bokeh
 - rise
 - hide_code
-- pygsti
